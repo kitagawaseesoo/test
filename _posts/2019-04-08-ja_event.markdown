@@ -1,0 +1,33 @@
+---
+layout: ja/event/post
+title:  "ABCI-WebUI実証プログラム開始<br />ソニーのNNCを採択"
+date:   2019-07-04 00:00:00 +0900
+showdate: 2019.04.08
+lang: ja
+headline: "1"
+categories: "EVENT"
+img: logo.png
+---
+
+### ABCI-WebUIベース開発環境実証プログラム
+{: .ah3 }
+
+<div class="lead_text">ABCI-WebUIベース開発環境実証プログラムは、ABCIの利用者層を拡大して、ABCIを活用したAIユースケースの開発を目的とし、ディープラーニングの初学者にも使いやすいWebUIベースの開発環境をABCIのフロントエンドとして提供する事業者を公募した上で実証を委託するプログラムです。<br />
+この度、公募によってソニーのNeural Network Console (NNC)を採択し、クラウドサービスを提供することになりました。NNCクラウド版の利用者は、GPUとして産総研の「ABCI」を選択可能となります。ご利用に当たっては、NNCのサイトから「ABCI利用申請」が必要となります。
+</div>
+
+## NNCの「ABCI利用申請」サイト
+
+<div class="lead_text">世界トップレベルの超高性能コンピューターとGUIによるディープラーニングで開発を加速させよう！<br />
+<a href="https://dl.sony.com/ja/cloud/abci/index.html"
+target="_blank"><u>https://dl.sony.com/ja/cloud/abci/index.html</u></a>
+</div>
+
+## ソニーのニュースリリース
+
+<div class="lead_text">人工知能（AI）を実現するディープラーニング（深層学習）の統合開発環境<br />
+「Neural Network Consoleクラウド版」、<br />
+国内最速の超高性能コンピュータシステムと連携したサービス提供を開始<br />
+<a href="https://www.sony.co.jp/SonyInfo/News/Press/201904/19-032/index.html"
+target="_blank"><u>https://www.sony.co.jp/SonyInfo/News/Press/201904/19-032/index.html</u></a>
+</div>

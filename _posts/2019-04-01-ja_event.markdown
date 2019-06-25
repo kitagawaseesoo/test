@@ -1,0 +1,85 @@
+---
+layout: ja/event/post
+title:  "成果の公表について"
+date:   2019-04-01 00:00:00 +0900
+showdate: 2019年度
+lang: ja
+headline: "1"
+categories: "EVENT"
+img: event3.png
+---
+
+### 成果の公表について（約款２１条関連）
+{: .ah3 }
+
+<div class="lead_text">ABCIを利用して得られた成果を学会発表、国際会議発表、プレスリリース等で発表する場合は、事前にその情報を<a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a>宛にメールでご連絡ください。<br />
+<ul class="dot_ul">
+<li class="dot">学会発表の場合：　学会名とその発表概要</li>
+<li class="dot">国際会議発表の場合：　国際会議名とその発表概要</li>
+<li class="dot">プレスリリースの場合：　リリース日とリリース概要</li>
+</ul>
+</div>
+
+## 研究成果を報告する場合の表記について
+
+<div class="lead_text">成果を公表する場合は、以下の例文の記載をお願いします。<br />
+日本語：　産総研のAI橋渡しクラウド(ABCI)を利用した。<br />
+English:  Computational resource of AI Bridging Cloud Infrastructure (ABCI) provided by National Institute of Advanced Industrial Science and Technology (AIST) was used.
+</div>
+
+### 研究成果（ABCIグランドチャレンジ）
+{: .h3 }
+
+### 論文
+<div class="lead_text">Kates-Harbeck, J., Svyatkovskiy, A., Tang, W., “Predicting disruptive instabilities in controlled fusion plasmas through deep learning”, Nature, accepted (2019).
+</div>
+
+### 国際会議・学会発表
+
+<div class="lead_text">K. Osawa, Y. Tsuji, Y. Ueno, A. Naruse, R. Yokota, S. Matsuoka “Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks”, CVPR 2019, June 16-20 (2019).
+</div>
+<div class="lead_text">Yuichiro Ueno and Rio Yokota “Exhaustive Study of Hierarchical AllReduce Patterns for Large Messages Between GPUs”, CCGrid, May 14-17 (2019).
+</div>
+<div class="lead_text">Yokota, R. “Kronecker Factorization for Second Order Optimization in Deep Learning”, SIAM CSE, Spokane, USA, February 25-March 3 (2019).
+</div>
+<div class="lead_text">Massively Distributed SGD: ImageNet/ResNet-50 Training in a Flash　(arXiv:1811.05233) [v2] Tue, 5 Mar 2019.
+</div>
+<div class="lead_text">ImageNet/ResNet-50 Training in 224 Seconds　(arXiv:1811.05233) [v1] Tue, 13 Nov 2018.
+</div>
+
+### プレスリリース
+<div class="lead_text">ソニー：ディープラーニングの分散学習で世界最高速を達成 (2018/11/13)
+</div>
+<div class="lead_text">産総研： AI向けクラウド型計算システム「ABCI」が深層学習の学習速度で世界最速に (2018/11/13)
+</div>
+
+### 研究成果（ABCI一般利用）
+{: .h3 }
+
+### プレスリリース
+<div class="lead_text">2019年4月1日　　　株式会社富士通研究所<br />
+世界最高速を達成！ディープラーニングの高速化技術を開発<br />
+高効率な分散並列処理によりResNet-50の学習処理を75秒で完了
+</div>
+<a href="https://pr.fujitsu.com/jp/news/2019/04/1.html"
+target="_blank"><u>https://pr.fujitsu.com/jp/news/2019/04/1.html</u></a><br />
+株式会社富士通研究所（注1）（以下、富士通研究所）は、ディープラーニングソフトウェアを高速化する技術を開発し、国立研究開発法人産業技術総合研究所（注2）様に富士通株式会社（注3）（以下、富士通）が導入した「AI橋渡しクラウド（AI Bridging Cloud Infrastructure、以下、ABCI）」を利用して学習に要する時間を測定したところ、このたび世界最高速を達成しました。<br /><br />
+
+### 国際会議・学会発表
+
+<div class="lead_text">Kohei Ozaki and Shuhei Yokoo, “1st place in Retrieval Challenge” and "3rd place in Recognition Challenge", CVPR 2019 Second Landmark Recognition Workshop, 16 June 2019.
+</div>
+<div class="lead_text">Kohei Ozaki and Shuhei Yokoo, "Large-scale Landmark Retrieval/Recognition under a Noisy and Diverse Dataset" (arXiv:1906.04087) [v1] Mon, 10 June 2019.
+</div>
+
+### ABCIのベンチマーク
+{: .h3 }
+
+<div class="lead_text">TOP500で世界５位　(2018年6月)<br />
+Green500で世界４位　(2018年11月)<br />
+HPCG Performanceで世界５位　(2018年11月)<br />
+</div>
+
+<strong>情報処理学会　研究報告　ハイパフォーマンスコンピューティング(HPC)　20180HPC-167</strong><br />
+<a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=192841&item_no=1"
+target="_blank"><u>AI橋渡しクラウドABCIにおけるLinpack benchmarkの最適化と性能評価</u></a>

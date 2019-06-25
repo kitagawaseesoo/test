@@ -1,0 +1,78 @@
+---
+layout: en/event/post
+title:  "Publication of Results"
+date:   2019-04-01 00:00:00 +0900
+showdate: 2019.04
+lang: en
+headline: "1"
+categories: "EVENT"
+img: event3.png
+---
+
+### Publication of Results Made by ABCI Users（Article 21, ABCI Agreement）
+{: .ah3 }
+
+<div class="lead_text">When ABCI users intend to make the results public for academic publication, international conference, press release, etc, please send the following information to: <a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a><br />
+<ul class="dot_ul">
+<li class="dot">Academic Publication: Name of the academic institute and abstract of the publication</li>
+<li class="dot">International Conference: Name of the conference and abstract of the publication</li>
+<li class="dot">Press Release: Release date and abstract of the release</li>
+</ul>
+</div>
+
+## Example of the credit at the publication
+
+<div class="lead_text">Computational resource of AI Bridging Cloud Infrastructure (ABCI) provided by National Institute of Advanced Industrial Science and Technology (AIST) was used.
+</div>
+
+### Research Publication (ABCI Grand Challenge)
+{: .h3 }
+
+### [Academic Papers]
+<div class="lead_text">Kates-Harbeck, J., Svyatkovskiy, A., Tang, W., “Predicting disruptive instabilities in controlled fusion plasmas through deep learning”, Nature, accepted (2019).
+</div>
+
+
+### [International Conferences, Academic Publications]
+<div class="lead_text">K. Osawa, Y. Tsuji, Y. Ueno, A. Naruse, R. Yokota, S. Matsuoka “Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks”, CVPR 2019, June 16-20 (2019).
+</div>
+<div class="lead_text">Yuichiro Ueno and Rio Yokota “Exhaustive Study of Hierarchical AllReduce Patterns for Large Messages Between GPUs”, CCGrid, May 14-17 (2019).
+</div>
+<div class="lead_text">Yokota, R. “Kronecker Factorization for Second Order Optimization in Deep Learning”, SIAM CSE, Spokane, USA, February 25-March 3 (2019).
+</div>
+<div class="lead_text">Massively Distributed SGD: ImageNet/ResNet-50 Training in a Flash　(arXiv:1811.05233) [v2] Tue, 5 Mar 2019.
+</div>
+<div class="lead_text">ImageNet/ResNet-50 Training in 224 Seconds　(arXiv:1811.05233) [v1] Tue, 13 Nov 2018.
+</div>
+
+### [Press Releases]
+<div class="lead_text">November 13, 2018 / SONY<br />Sony Achieves World's Fastest*1 Deep Learning Speeds through Distributed Learning
+</div>
+
+### Research Results (ABCI Users)
+{: .h3 }
+
+### [Press Releases]
+
+<div class="lead_text">April 01, 2019 / Fujitsu Laboratories Ltd.<br />
+Fujitsu Develops Deep Learning Acceleration Technology, Achieves World's Highest Speed<br />
+Achieves training time of 75 seconds in ResNet-50 through highly-efficient distributed parallel processing
+</div>
+<a href="https://www.fujitsu.com/global/about/resources/news/press-releases/2019/0401-01.html"
+target="_blank"><u>https://www.fujitsu.com/global/about/resources/news/press-releases/2019/0401-01.html</u></a><br />
+Fujitsu Laboratories Ltd. today announced that it has developed technology to improve the speed of deep learning software, which has now achieved the world's highest speed when the time required for machine learning was measured using the AI Bridging Cloud Infrastructure (ABCI) system, deployed by Fujitsu Limited for the National Institute of Advanced Industrial Science and Technology (AIST).<br /><br />
+
+### [International Conferences, Academic Publications]
+
+<div class="lead_text">Kohei Ozaki and Shuhei Yokoo, “1st place in Retrieval Challenge” and "3rd place in Recognition Challenge", CVPR 2019 Second Landmark Recognition Workshop, 16 June 2019.
+</div>
+<div class="lead_text">Kohei Ozaki and Shuhei Yokoo, "Large-scale Landmark Retrieval/Recognition under a Noisy and Diverse Dataset" (arXiv:1906.04087) [v1] Mon, 10 June 2019.
+</div>
+
+### ABCI Benchmarks
+{: .h3 }
+
+<div class="lead_text">5th in the row at TOP500　(June 2018)<br />
+4th in the row at Green500　(November 2018)<br />
+5th in the row at HPCG Performance　(November 2018)<br />
+</div>

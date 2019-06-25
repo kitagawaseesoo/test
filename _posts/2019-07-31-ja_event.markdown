@@ -1,0 +1,124 @@
+---
+layout: ja/event/post
+title:  "ABCIオープンセミナー<br />ABCIの産業利用とキラーアプリ開発"
+date:   2019-07-31 00:00:00 +0900
+showdate: 2019.07.31
+lang: ja
+headline: "1"
+categories: "EVENT"
+img: seminar-0907-a.gif
+outurl:
+---
+
+### ABCIオープンセミナー<br /><br />「ABCIの産業利用とキラーアプリ開発」
+{: .ah3 }
+
+<div class="lead_text">機械学習で大規模なGPU利用を検討されている皆様へ<br />
+ABCIは日本のAI開発を加速します。<br />
+</div>
+
+<div class="lead_text">ABCIは、2018年８月の運用開始より多くの方にご利用いただき、圧倒的なGPUスペックと機能に、ご満足いただいております。今回のセミナーでは、深くABCIを利活用されているお客様からの事例ご紹介に加え、「DXによるビジネス価値の最大効率化」をテーマとした基調講演を予定しております。
+</div>
+
+
+## 【基調講演】
+
+<ul class="dot_ul"><strong>
+<li class="dot">楽天株式会社　執行役員　楽天技術研究所代表　　森　　正弥　様</li>
+<li class="dot">日揮株式会社　執行役員　Chief Digital Officer　花田　琢也　様</li>
+</strong></ul>
+
+## 【活用事例とABCIへの期待】
+
+<ul class="dot_ul"><strong>
+<li class="dot">ソニー株式会社　様</li>
+<li class="dot">パナソニック株式会社　様</li>
+<li class="dot">株式会社富士通研究所　様</li>
+</strong></ul>
+　　（場合により変更することがございます。）
+<br />
+
+## 【日時・場所】
+
+<div class="lead_text">日時：　2019年7月31日（水）13:30 - 17:00<br />場所：　東工大　くらまえホール<br />
+　　　　東京都目黒区大岡山2-10-1　東京工業大学　蔵前会館１Ｆ
+</div>
+
+### カリキュラム
+{: .h3 }
+
+<table class="table">
+<tr align="center">
+ <td>時　刻</td>
+ <td>内　　容</td>
+</tr>
+<tr align="center">
+<td> 13:00 </td>
+<td>開場・受付</td>
+</tr>
+<tr align="center">
+<td> 13:30 </td>
+<td>主催者挨拶　 　  （産総研　理事　関口　智嗣）</td>
+</tr>
+<tr align="center">
+<td> 13:40 </td>
+<td><strong>基調講演「ＤＸの最大効率化に向けて」</strong><br /><br />
+　□楽天株式会社
+　執行役員　楽天技術研究所　代表　森　  正弥　様 <br />
+　□日揮株式会社
+　執行役員　Chief Digital Officer　 花田　琢也　様</td>
+</tr>
+<tr align="center">
+<td> 15:00 </td>
+<td><strong>ABCIの価値</strong>　 　  （産総研　東工大RWBC-OIL　副ラボ長　藤澤　克樹）</td>
+</tr>
+<tr align="center">
+<td> 15:30 </td>
+<td>休　　憩</td>
+</tr>
+<tr align="center">
+<td> 15:50 </td>
+<td><strong>お客様活用事例</strong><br /><br />
+□ソニー株式会社　　　
+　シニアマシンラーニングリサーチャー　　　　　　　小林　由幸　様<br />
+□パナソニック株式会社
+　ＨＰＣプロモーションセンター長　　　　　　　　　宮嶋　宏志　様<br />
+□株式会社富士通研究所
+　プラットフォーム革新プロジェクト　マネージャー　田原　司睦　様</td>
+</tr>
+<tr align="center">
+<td> 16:50 </td>
+<td><strong>ABCIの今後</strong>　 　  （産総研　東工大RWBC-OIL　ラボ長　小川　宏高）</td>
+</tr>
+<tr align="center">
+<td> 17:00 </td>
+<td>終　　了</td>
+</tr>
+</table>
+
+### 会場
+{: .h3 }
+
+<div class="lead_text">東京工業大学　くらまえホール<br />
+　　東京都目黒区大岡山2-10-1<br />
+　　東工大蔵前会館１Ｆ<br />
+　　　最寄り駅：東急　大岡山駅徒歩１分
+</div>
+<img src="../../../../img/event/kuramae.gif" width="70%" height="70%">
+
+### お申込・お問合せ
+{: .h3 }
+
+<div class="lead_text">「ABCIの産業利用とキラーアプリ開発」セミナーへのお申込は<a href="https://technobridge.aist.go.jp/mailform/69684418/"
+target="_blank"><u>https://technobridge.aist.go.jp/mailform/69684418/</u></a><br />
+</div>
+
+<img src="../../../../img/event/seminar-0907-a.gif" width="30%" height="30%">
+<img src="../../../../img/event/seminar-0907-b.gif" width="30%" height="30%">
+<span style="color:#00314F; margin-left:20px; display:inline-block">
+<strong><a href="../../../../event/ABCI-Seminar0907.pdf" target="_blank"><u>パンフレットをダウンロード[PDF]</u></a></strong>
+
+<div class="lead_text"><br />＊本セミナー参加者向けに「ABCIハンズオンセミナー（9/9、定員４０名）を開催いたします。<br />　詳細は会場にて。
+</div>
+
+<br />お問合せは、<a href="mailto:abci-seminar-ml@aist.go.jp" target="_blank"><u>abci-seminar-ml@aist.go.jp</u></a><br />

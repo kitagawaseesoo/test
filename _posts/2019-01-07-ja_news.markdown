@@ -1,0 +1,10 @@
+---
+layout: ja/news/post
+title:  "SC18招待講演（メディア掲載事例）<br />日本のAI普及の加速を後押しするABCI"
+date:   2019-01-07 00:00:00 +0900
+showdate: 2019.01.07
+lang: ja
+headline: "0"
+categories: "NEWS"
+outurl: https://news.mynavi.jp/article/20190107-sc18_abci/
+---

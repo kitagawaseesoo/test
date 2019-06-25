@@ -1,0 +1,82 @@
+---
+layout: ja/event/post
+title:  "ABCI利用者講習会（初級編）"
+date:   2019-02-07 00:00:00 +0900
+showdate: 2019.02.07
+lang: ja
+headline: "0"
+categories: "EVENT"
+img: event4.png
+---
+
+
+## ABCI利用者講習会（初級編）
+{: .ah2 }
+
+<p class="c">AIフレームワーク (Tensorflow等) は日頃使っているが、ABCIのような大型計算機システムは初心者という受講者が、一通り、ABCIでAIフレームワーク (Tensorflow等)を使えるようになったと自覚できるような、「初級者向けABCI講習会」を以下の通り開催します。なお、本講習会は、ABCI利用者が対象ですが、ABCI利用をご検討中の方（受講後、３ヶ月以内にABCI利用申請予定の方）も参加できます。<br />
+</p>
+
+### 講習会の内容：
+{: .ah3 }
+
+**1.　ABCIシステム基本概念の理解**<br />
+<p class="c">ABCIシステムがどのように構成され、各々のサブシステム（サーバ、ノード）へのアクセスに必要なプロトコルは何かを図で分かりやすく解説します。
+</p>
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">アクセスサーバ、インタラクティブノード、計算ノード、ファイルシステム（GPFS）</li>
+<li class="dot">SSH接続</li>
+<li class="dot">環境変数（特に、PATH）</li>
+</ul>
+</div>
+
+**2.　ハンズオン**<br />
+<p class="c">受講者のPCで実際に操作していただきますので、必ず、PCをご持参ください。また、ネットワークにWiFi接続してABCIへ実際にアクセスします。資料はWindows版とMAC版を準備しますが、説明はWindows中心に実施します。
+</p>
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">SSH鍵の生成</li>
+<li class="dot">ABCIへのSSH鍵登録</li>
+<li class="dot">アクセスサーバへのSSH接続</li>
+<li class="dot">インタラクティブノードへのSSHポートフォーワーディング接続</li>
+<li class="dot">ABCI上で利用したいソフトウェア(Tensorflow等)やライブラリのインストール</li>
+<li class="dot">ABCIのファイルシステム(GPFS)へのファイルアップロード</li>
+<li class="dot">バッチジョブ(qsub), インタラクティブジョブ(qrsh)の使い方（簡単なサンプルコードを使って）</li>
+<li class="dot">qstatを使ったジョブ状況のモニタリング</li>
+<li class="dot">Environment Moduleの利用（環境変数の設定・解除の例）</li>
+<li class="dot">Pythonの利用（pip, venv, virtualenvの設定例）</li>
+<li class="dot">Singularityの使い方（簡単なサンプルコードを使って）</li>
+<li class="dot">Jupyter Notebookの利用法</li>
+</ul>
+</div>
+
+
+### 端末環境：
+{: .ah3 }
+
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">Windows</li>
+<li class="dot">MAC</li>
+</ul>
+</div>
+
+### 開催時期・場所：
+{: .ah3 }
+
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">2019年2月7日（木）午後２時〜５時</li>
+<li class="dot">産総研臨海副都心センター別館１１階会議室</li>
+</ul>
+</div>
+
+### 申込方法：
+{: .ah3 }
+
+<p class="c">下記のWebサイトからお申し込みください。講習会へのご参加は、ABCI利用者を優先させていただきます。申込締切日は1/28（月）17:00です。（定員：３０名）<br /><br />
+ABCI利用者講習会（初級編）申込サイト：　<a href="https://aitconsortium.doorkeeper.jp/events/86076"
+target="_blank"><u>https://aitconsortium.doorkeeper.jp/events/86076</u></a><br />
+</p><br />
+
+問い合わせ先： <a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a><br />

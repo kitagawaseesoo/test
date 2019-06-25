@@ -1,0 +1,10 @@
+---
+layout: ja/news/post
+title:  "ABCI-WebUI実証プログラム開始<br />ソニーのNNCを採択"
+date:   2019-07-01 00:00:00 +0900
+showdate: 2019.04.08
+lang: ja
+headline: "0"
+categories: "NEWS"
+outurl: https://www.sony.co.jp/SonyInfo/News/Press/201904/19-032/index.html
+---

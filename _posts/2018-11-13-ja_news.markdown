@@ -1,0 +1,10 @@
+---
+layout: ja/news/post
+title:  "AI向けクラウド型計算システム「ABCI」が深層学習の学習速度で世界最速に"
+date:   2018-11-13 00:00:00 +0900
+showdate: 2018.11.13
+lang: ja
+headline: "0"
+categories: "NEWS"
+outurl: https://www.aist.go.jp/aist_j/press_release/pr2018/pr20181113/pr20181113.html
+---

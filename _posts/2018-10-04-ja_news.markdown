@@ -1,0 +1,13 @@
+---
+layout: ja/news/post
+title:  "ABCIをHPCIの計算資源として提供開始(平成３１年度)"
+date:   2018-10-04 00:00:00 +0900
+showdate: 2018.10.04
+lang: ja
+headline: "0"
+categories: "NEWS"
+outurl: http://www.hpci-office.jp/pages/aist_2019-1
+---
+ABCIをHPCIの平成３１年度課題募集における計算資源として提供します。<br />
+課題申請は、こちらをご参照ください。<br />
+<a href="http://www.hpci-office.jp/pages/aist_2019-1" target="_blank"><u>http://www.hpci-office.jp/pages/aist_2019-1</u></a>
