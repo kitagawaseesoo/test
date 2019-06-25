@@ -5,7 +5,7 @@ permalink: /en/link/use_case.html
 ---
 
 
-## FAQ
+## USE CASE
 {: .h2 }
 
 <ul id="news_ul">
