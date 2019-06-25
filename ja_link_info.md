@@ -9,8 +9,8 @@ permalink: /ja/link/info.html
 {: .h2 }
 
 <ul id="news_ul">
-<li class="news"><a href="./info_01.html" class="interview_link">グランドチャレンジ</a></li>
-<li class="news"><a href="./info_02.html" class="interview_link">WebUI開発環境</a></li>
-<li class="news"><a href="./info_03.html" class="interview_link">成果報告</a></li>
-<li class="news"><a href="./info_04.html" class="interview_link">セキュリティホワイトペーパー</a></li>
+<li class="news"><a href="./info01.html" class="interview_link">グランドチャレンジ</a></li>
+<li class="news"><a href="./info02.html" class="interview_link">WebUI開発環境</a></li>
+<li class="news"><a href="./info03.html" class="interview_link">成果報告</a></li>
+<li class="news"><a href="./info04.html" class="interview_link">セキュリティホワイトペーパー</a></li>
 </ul>
