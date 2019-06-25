@@ -1,8 +1,6 @@
-#container h3,
-.h3{border:1px solid #003250; font-size:20px; text-align:center; color:#00314F; margin-top: 25px; margin-bottom:20px;}
-#container h4,
-.h4{color:#00314F; font-size:16px;}
-
+#container h3,.h3,.h3n{border:1px solid #003250; font-size:20px; text-align:center; color:#00314F; margin-top: 25px; margin-bottom:20px;}
+#container h4,.h4{color:#00314F; font-size:16px;}
+.h3n{font-weight: normal; text-align: left; padding-left: 10px; font-size: 23px}
 
 .lead_text{padding-bottom:20px;font-weight:bold;font-size:14px;line-height:28px; color:#00314F}
 
@@ -60,6 +58,9 @@
 .res_table th{background-color:#04314F; color:#fff; font-weight:bold; padding:15px 10px; font-size:14px}
 .res_table td{color:#1F4964; line-height:1.2}
 
+.interview{margin-bottom:15px}
+.interview dt{background-color: #E6EAEE; font-size: 14px; line-height: 20px; padding:15px}
+.interview dd{padding: 15px 20px}
 @media screen and (min-width: 641px){
 
 .c{padding-left:10px; margin-bottom:30px}
@@ -87,7 +88,7 @@
 
 @media screen and (max-width:640px){
 .h2{font-size:24px}
-.h3{padding:5px 10px; line-height:1.2; font-size:16px; text-align:left;}
+.h3,.h3n{padding:5px 10px; line-height:1.2; font-size:16px; text-align:left;}
 .h4{line-height:1.2; margin:0; margin-bottom:15px}
 
 .c{margin-bottom:30px}
