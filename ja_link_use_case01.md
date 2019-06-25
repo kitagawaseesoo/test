@@ -1,7 +1,7 @@
 ---
-layout: ja/link/use_case_01
+layout: ja/link/use_case01
 title: 利用事例 - 関連情報 | ABCI
-permalink: /ja/link/use_case_01.html
+permalink: /ja/link/use_case01.html
 ---
 
 
